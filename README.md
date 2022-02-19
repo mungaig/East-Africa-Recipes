@@ -1,2 +1,2 @@
 # East-Africa-Recipes
-A site showcasing popular East African Recipes
+A site containing popular East African Recipes
